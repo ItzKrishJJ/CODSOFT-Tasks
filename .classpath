@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Number Game/app/src/androidTest/java"/>
+	<classpathentry kind="src" path="Number Game/app/src/main/java"/>
+	<classpathentry kind="src" path="Number Game/app/src/test/java"/>
+	<classpathentry kind="lib" path="Number Game/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar"/>
+	<classpathentry kind="lib" path="Number Game/app/build/intermediates/merged_java_res/debug/base.jar"/>
+	<classpathentry kind="lib" path="Number Game/app/build/intermediates/project_dex_archive/debug/out/94ccc1ad27088c57ddb6191734e1dea7748b217b87486c3031099f707e28ceb1_0.jar"/>
+	<classpathentry kind="lib" path="Number Game/app/build/intermediates/project_dex_archive/debug/out/94ccc1ad27088c57ddb6191734e1dea7748b217b87486c3031099f707e28ceb1_1.jar"/>
+	<classpathentry kind="lib" path="Number Game/app/build/intermediates/project_dex_archive/debug/out/94ccc1ad27088c57ddb6191734e1dea7748b217b87486c3031099f707e28ceb1_2.jar"/>
+	<classpathentry kind="lib" path="Number Game/app/build/intermediates/project_dex_archive/debug/out/94ccc1ad27088c57ddb6191734e1dea7748b217b87486c3031099f707e28ceb1_3.jar"/>
+	<classpathentry kind="lib" path="Number Game/app/build/intermediates/project_dex_archive/debug/out/94ccc1ad27088c57ddb6191734e1dea7748b217b87486c3031099f707e28ceb1_4.jar"/>
+	<classpathentry kind="lib" path="Number Game/app/build/intermediates/project_dex_archive/debug/out/94ccc1ad27088c57ddb6191734e1dea7748b217b87486c3031099f707e28ceb1_5.jar"/>
+	<classpathentry kind="lib" path="Number Game/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="Number Game/app/build/intermediates/javac/debug/classes"/>
+</classpath>
